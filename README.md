@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Danico Mfala 😎</h1>
 <h3 align="center">A passionate Mechatronics 🤖 and frontend developer 👨🏾‍💻</h3>
 
-<img align="center" alt src="https://static.wixstatic.com/media/d7f085_9550e196192d469687719cdc84c6b218~mv2.gif" width="100%">
+<img align="center" alt src="https://static.wixstatic.com/media/d7f085_9550e196192d469687719cdc84c6b218~mv2.gif" width="100px">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=danico-mfala&label=Profile%20views&color=0e75b6&style=flat" alt="danico-mfala" /> </p>
 
