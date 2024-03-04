@@ -1,4 +1,4 @@
-[MasterHeader](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
+[![MasterHeader](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Danico Mfala</h1>
 <h3 align="center">A passionate frontend developer</h3>
