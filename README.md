@@ -1,7 +1,7 @@
 [![MasterHeader](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Danico Mfala</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Danico Mfala 😎</h1>
+<h3 align="center">A passionate Mechatronics 🤖 and frontend developer 👨🏾‍💻</h3>
 
 <img align="left" alt src="https://media4.giphy.com/media/Vnk8f29XU6GSZK8uGJ/giphy.gif">
 
